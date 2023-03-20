@@ -1,0 +1,8 @@
+User-agent: Mediapartners-Google
+Disallow: 
+
+User-agent: *
+Disallow: /p/
+Allow: /
+
+Sitemap: https://imensagensbr.pages.dev/sitemapindex.xml
